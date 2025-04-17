@@ -10,11 +10,7 @@ This is a solution to the [Browser extensions manager UI challenge on Frontend M
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -31,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](./screenshot.webp)
+![](./screenshot.webp)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/WarlockJa/browser-extensions-manager-ui)
+- Live Site URL: [Vercel](https://browser-extensions-manager-ui-seven.vercel.app/)
 
 ## My process
 
